@@ -11,7 +11,7 @@
  *        $key({ a: 1, b: 2});
  * 
  */
-Ninja.module('$keys', [], function () {
+this.Ninja.module('$keys', [], function () {
   
   /**
    * Retorna um array do nomes das propriedades enumeradas de um
